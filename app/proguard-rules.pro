@@ -1,0 +1,1 @@
+# Vuzify Proguard Rules
