@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Graduation Cap / Book Icon -->
+    <path
+        android:fillColor="#433D59"
+        android:pathData="M54,32 L20,48 L54,64 L82,50.8 L82,68 L88,68 L88,48 Z"/>
+    <path
+        android:fillColor="#433D59"
+        android:pathData="M34,58 L34,72 C34,78 43,84 54,84 C65,84 74,78 74,72 L74,58 L54,68 Z"/>
+</vector>
